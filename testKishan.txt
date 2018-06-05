@@ -1,0 +1,5 @@
+git init
+
+git clone <repo_path>
+
+change codes or add/remove files
